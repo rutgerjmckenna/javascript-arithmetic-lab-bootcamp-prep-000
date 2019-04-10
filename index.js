@@ -1,4 +1,4 @@
 
 function addAB() {
- var AB = 
+ var AB = a + b
 }
